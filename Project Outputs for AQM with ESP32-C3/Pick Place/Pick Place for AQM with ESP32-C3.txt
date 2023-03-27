@@ -5,8 +5,8 @@ C:\Users\Public\Documents\GitHub\AQM-with-esp32-c3-\Project Outputs for AQM with
 File Design Information:
 
 Date:       27/03/23
-Time:       12:51
-Revision:   a7d49243c3c8a11239afa2494db665de9d598d6c
+Time:       16:12
+Revision:   52b530531160c6f01b5197923dd1cdbe5dae98e1
 Variant:    No variations
 Units used: mm
 
@@ -64,7 +64,7 @@ C5         22uF                 BottomLayer FP-GRM219-0_2-0_15-IPC_A 46.9900    
 C4         10uF                 BottomLayer CL05A106MQ5NUNC          59.3090      78.7400      180      "6.3V 10uF X5R ±20% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                                                              C15525        
 C3         22uF                 BottomLayer FP-GRM219-0_2-0_15-IPC_A 57.2770      82.8040      90       "Chip Multilayer Ceramic Capacitors for General Purpose, 0805, 22uF, X5R, 15%, 20%, 16V"                                                 C162295       
 C2         220uF                BottomLayer CAPAE830X1050N           66.1670      79.7560      90       "-40?~+85? 2000hrs@85? 220uF 10mm 16V 8mm 215mA@120Hz ±20% SMD,D8xL10mm Aluminum Electrolytic Capacitors - SMD ROHS"                     C445237       
-C1         0.1uF                TopLayer    MPX-104K275VAC-C-D2      34.6780      113.5380     360      "0.1uF ±10% -40?~+110? X2 275VAC Radial Leaded,P=15mm Suppression Capacitors ROHS"                                                       C3249976      
+C1         0.1uF                TopLayer    MPX-104K275VAC-C-D2      34.6780      113.5380     360      "X2 100nF ±10% 275V Plugin,P=15mm Suppression Capacitors ROHS"                                                                           C914484       
 B4         ESP32-C3-WROOM-02-N4 TopLayer    ESP32C3WROOM02N4         92.4280      119.4960     0        "WiFi Modules (802.11) (Engineering Samples) SMD module, ESP32-C3, 4MB SPI flash, PCB antenna, -40 C +85 C"                              C2934560      
 B3         3296X-1-103          TopLayer    3296X1223LF              72.7710      121.9200     0        "±10% 10kO Plugin Variable Resistors/Potentiometers ROHS"                                                                                C118955       
 B2         UU9.8Y-10MH          TopLayer    UU98Y10MH                43.8780      101.1630     90       "10mH@1kHz 1.2O 2 500mA 50V Plugin Common Mode Filters ROHS"                                                                             C75192        

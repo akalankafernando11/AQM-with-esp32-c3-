@@ -2,6 +2,163 @@
 FileName = AQM with ESP32-C3.GBR
 AutoAperture = True
 *************************************************************
+Generating : Bottom 3D Body
+      File : AQM with ESP32-C3.GM23
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 20
+      File : AQM with ESP32-C3.GM20
+
+    Adding Layer      : Mechanical 20
+
+
+Used DCodes :
+    D14
+    D93
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : AQM with ESP32-C3.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D10
+    D14
+    D93
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : AQM with ESP32-C3.GM5
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : AQM with ESP32-C3.GM4
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D10
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : AQM with ESP32-C3.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D24
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : AQM with ESP32-C3.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : AQM with ESP32-C3.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D24
+    D55
+    D56
+    D57
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+*************************************************************
+
+*************************************************************
 Generating : Bottom Component Center
       File : AQM with ESP32-C3.GM24
 
@@ -24,23 +181,58 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 15
-      File : AQM with ESP32-C3.GM15
+Generating : Top Component Center
+      File : AQM with ESP32-C3.GM16
 
-    Adding Layer      : Mechanical 15
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : AQM with ESP32-C3.GM13
+
+    Adding Layer      : Mechanical 13
 
 
 Used DCodes :
     D10
+    D13
     D14
+    D15
     D93
 *************************************************************
 
 *************************************************************
-Generating : Top Courtyard
-      File : AQM with ESP32-C3.GM5
+Generating : Bottom Assembly
+      File : AQM with ESP32-C3.GM3
 
-    Adding Layer      : Top Courtyard
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : AQM with ESP32-C3.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : AQM with ESP32-C3.GM2
+
+    Adding Layer      : Top Assembly
 
 
 Used DCodes :
@@ -93,22 +285,10 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top 3D Body
-      File : AQM with ESP32-C3.GM4
+Generating : Bottom Layer
+      File : AQM with ESP32-C3.GBL
 
-    Adding Layer      : Top 3D Body
-
-
-Used DCodes :
-    D10
-    D12
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : AQM with ESP32-C3.GTL
-
-    Adding Layer      : Top Layer
+    Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
@@ -117,22 +297,10 @@ Used DCodes :
     D16
     D17
     D18
-    D19
-    D20
-    D21
-    D22
-    D23
     D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
     D55
     D56
     D57
-    D61
     D62
     D63
     D64
@@ -147,50 +315,17 @@ Used DCodes :
     D73
     D74
     D75
-*************************************************************
-
-*************************************************************
-Generating : Top Component Center
-      File : AQM with ESP32-C3.GM16
-
-    Adding Layer      : Top Component Center
-
-
-Used DCodes :
-    D14
-*************************************************************
-
-*************************************************************
-Generating : Bottom Assembly
-      File : AQM with ESP32-C3.GM3
-
-    Adding Layer      : Bottom Assembly
-
-
-Used DCodes :
-    D10
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : AQM with ESP32-C3.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D16
-*************************************************************
-
-*************************************************************
-Generating : Top Assembly
-      File : AQM with ESP32-C3.GM2
-
-    Adding Layer      : Top Assembly
-
-
-Used DCodes :
-    D10
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
 *************************************************************
 
 *************************************************************
@@ -239,50 +374,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Layer
-      File : AQM with ESP32-C3.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D16
-    D17
-    D18
-    D24
-    D55
-    D56
-    D57
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
-    D82
-    D83
-    D84
-    D85
-    D86
-*************************************************************
-
-*************************************************************
 Generating : Bottom Overlay
       File : AQM with ESP32-C3.GBO
 
@@ -296,10 +387,8 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Paste
-      File : AQM with ESP32-C3.GTP
-
-    Adding Layer      : Top Paste
+Generating : Top Layer
+      File : AQM with ESP32-C3.GTL
 
     Adding Layer      : Top Layer
 
@@ -307,6 +396,7 @@ Generating : Top Paste
 
 
 Used DCodes :
+    D16
     D17
     D18
     D19
@@ -321,6 +411,41 @@ Used DCodes :
     D28
     D29
     D30
+    D55
+    D56
+    D57
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : AQM with ESP32-C3.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
 *************************************************************
 
 *************************************************************
@@ -363,130 +488,5 @@ Used DCodes :
     D72
     D73
     D74
-*************************************************************
-
-*************************************************************
-Generating : Bottom 3D Body
-      File : AQM with ESP32-C3.GM23
-
-    Adding Layer      : Bottom 3D Body
-
-
-Used DCodes :
-    D10
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 20
-      File : AQM with ESP32-C3.GM20
-
-    Adding Layer      : Mechanical 20
-
-
-Used DCodes :
-    D14
-    D93
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 13
-      File : AQM with ESP32-C3.GM13
-
-    Adding Layer      : Mechanical 13
-
-
-Used DCodes :
-    D10
-    D13
-    D14
-    D15
-    D93
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : AQM with ESP32-C3.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D17
-    D18
-    D24
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
-    D82
-    D83
-    D84
-    D85
-    D86
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : AQM with ESP32-C3.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : AQM with ESP32-C3.GPB
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D17
-    D18
-    D24
-    D55
-    D56
-    D57
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
-    D82
-    D83
-    D84
-    D85
-    D86
 *************************************************************
 

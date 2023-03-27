@@ -1,10 +1,14 @@
-Output: Export STEP
-Type  : ExportSTEP
-From  : Variant [[No Variations]] of PCB Document [AQM with ESP32-C3.PcbDoc]
-   Generated File[AQM with ESP32-C3.step]
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 16:13:12 On 27/03/2023
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [AQM with ESP32-C3.PrjPcb]
+   Generated File[Bill of Materials-AQM with ESP32-C3.xlsx]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 12:52:00 On 27/03/2023
+Finished Output Generation At 16:15:32 On 27/03/2023
