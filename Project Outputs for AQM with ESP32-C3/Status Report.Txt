@@ -1,0 +1,10 @@
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [AQM with ESP32-C3.PcbDoc]
+   Generated File[AQM with ESP32-C3.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 12:52:00 On 27/03/2023
