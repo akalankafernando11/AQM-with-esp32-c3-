@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=RX1 Pin=P11-1
+Removed Pin From Net: NetName=SDA Pin=P11-2
+Removed Pin From Net: NetName=SCL Pin=P11-3
+Removed Pin From Net: NetName=EN Pin=P11-4
+Removed Pin From Net: NetName=VDD3.3V Pin=P11-5
+Removed Pin From Net: NetName=GND Pin=P12-1
+Removed Pin From Net: NetName=IO9 Pin=P12-2
+Removed Pin From Net: NetName=RESET Pin=P12-3
+Removed Pin From Net: NetName=TX1 Pin=P12-4
+Change Component Footprint: Designator=P11 Old Footprint=HDR1X5 New Footprint=HDR1X9
+Change Component Comment : Designator=P11 Old Comment=Header 5 New Comment=Header 9
+Change Component Designator: OldDesignator=P13 NewDesignator=P12
+Added Pin To Net: NetName=GND Pin=P11-1
+Added Pin To Net: NetName=IO9 Pin=P11-2
+Added Pin To Net: NetName=RESET Pin=P11-3
+Added Pin To Net: NetName=TX1 Pin=P11-4
+Added Pin To Net: NetName=RX1 Pin=P11-5
+Added Pin To Net: NetName=SDA Pin=P11-6
+Added Pin To Net: NetName=SCL Pin=P11-7
+Added Pin To Net: NetName=EN Pin=P11-8
+Added Pin To Net: NetName=VDD3.3V Pin=P11-9
+Added Member To Class: ClassName=esp32-c3 module Member=Component P12 Header 9
+Added Room: Name=AQM with esp32
+Added Room: Name=esp32-c3 module

@@ -1,0 +1,58 @@
+Change Component DesignItemId : Designator=C1 Old DesignItemId=MPX-104K275VAC-C-D2 New DesignItemId=
+Change Component Description : Designator=Y1 Old Description=-40?~+85? 32.768kHz 12.5pF 70kO ±20ppm SMD3215-2P Crystals ROHS New Description=-40?~+85? 32.768kHz 12.5pF 70kO ±20ppm SMD3215-2P Crystals ROHS
+Change Component Description : Designator=C2 Old Description=-40?~+85? 2000hrs@85? 220uF 10mm 16V 8mm 215mA@120Hz ±20% SMD,D8xL10mm Aluminum Electrolytic Capacitors - SMD ROHS New Description=-40?~+85? 2000hrs@85? 220uF 10mm 16V 8mm 215mA@120Hz ±20% SMD,D8xL10mm Aluminum Electrolytic Capacitors - SMD ROHS
+Change Component Description : Designator=C1 Old Description=0.1uF ±10% -40?~+110? X2 275VAC Radial Leaded,P=15mm Suppression Capacitors ROHS New Description=X2 100nF ±10% 275V Plugin,P=15mm Suppression Capacitors ROHS
+Change Component Description : Designator=B2 Old Description=10mH@1kHz 1.2O 2 500mA 50V Plugin Common Mode Filters ROHS New Description=10mH@1kHz 1.2O 2 500mA 50V Plugin Common Mode Filters ROHS
+Change Component Description : Designator=R8 Old Description=50V 10kO Thick Film Resistors 62.5mW ±1% -55?~+155? ±100ppm/? 0402 Chip Resistor - Surface Mount ROHS New Description=50V 10kO Thick Film Resistors 62.5mW ±1% -55?~+155? ±100ppm/? 0402 Chip Resistor - Surface Mount ROHS
+Change Component Description : Designator=R9 Old Description=50V 10kO Thick Film Resistors 62.5mW ±1% -55?~+155? ±100ppm/? 0402 Chip Resistor - Surface Mount ROHS New Description=50V 10kO Thick Film Resistors 62.5mW ±1% -55?~+155? ±100ppm/? 0402 Chip Resistor - Surface Mount ROHS
+Change Component Description : Designator=R11 Old Description=50V 10kO Thick Film Resistors 62.5mW ±1% -55?~+155? ±100ppm/? 0402 Chip Resistor - Surface Mount ROHS New Description=50V 10kO Thick Film Resistors 62.5mW ±1% -55?~+155? ±100ppm/? 0402 Chip Resistor - Surface Mount ROHS
+Change Component Description : Designator=A1 Old Description=75dB@(120Hz) 1A 1.25V@(1A) ±125?@(Tj) Fixed 3.3V~3.3V Positive 1 20V SOT-89 Linear Voltage Regulators (LDO) ROHS New Description=75dB@(120Hz) 1A 1.25V@(1A) ±125?@(Tj) Fixed 3.3V~3.3V Positive 1 20V SOT-89 Linear Voltage Regulators (LDO) ROHS
+Change Component Description : Designator=A2 Old Description=75dB@(120Hz) 1A 1.25V@(1A) ±125?@(Tj) Fixed 3.3V~3.3V Positive 1 20V SOT-89 Linear Voltage Regulators (LDO) ROHS New Description=75dB@(120Hz) 1A 1.25V@(1A) ±125?@(Tj) Fixed 3.3V~3.3V Positive 1 20V SOT-89 Linear Voltage Regulators (LDO) ROHS
+Change Component Description : Designator=R3 Old Description=100mW Thick Film Resistors 75V ±100ppm/? ±1% -55?~+155? 470O 0603 Chip Resistor - Surface Mount ROHS New Description=100mW Thick Film Resistors 75V ±100ppm/? ±1% -55?~+155? 470O 0603 Chip Resistor - Surface Mount ROHS
+Change Component Description : Designator=S1 Old Description=Surface Mount 50mA DPDT 3.2mm 12V 9.1mm 12V 3.55mm 50mA 10000 SMDSplicing Rectangular columnar -40?~+85? Black SMD Slide Switches ROHS New Description=Surface Mount 50mA DPDT 3.2mm 12V 9.1mm 12V 3.55mm 50mA 10000 SMDSplicing Rectangular columnar -40?~+85? Black SMD Slide Switches ROHS
+Change Component Description : Designator=C9 Old Description=X5R 10V 1uF ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS New Description= X5R 10V 1uF ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+Change Component Description : Designator=B3 Old Description=±10% 10kO Plugin Variable Resistors/Potentiometers ROHS New Description=±10% 10kO Plugin Variable Resistors/Potentiometers ROHS
+Change Component Library : Designator=C1 Old Library=MPX-104K275VAC-C-D2.SchLib New Library=X2-104K-275VAC.SchLib
+Change component parameters: Designator = "R3"; Footprint = "RESC1608X55X25LL10T15"; UniqueID = "\PUJMFYBA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/11808/0900766b80f96399-11808177.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1810161617_YAGEO-RC0603FR-07470RL_C114669.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C114669"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part #"; Value = "RC0603FR-07470RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "470O"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8"; Footprint = "RESC1005X40X25LL05T10"; UniqueID = "\FRPOXMLX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C60490"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part #"; Value = "RC0402FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9"; Footprint = "RESC1005X40X25LL05T10"; UniqueID = "\IFGUBXCG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C60490"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part #"; Value = "RC0402FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11"; Footprint = "RESC1005X40X25LL05T10"; UniqueID = "\GNSQVFFH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C60490"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part #"; Value = "RC0402FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1"; Footprint = "MPX-104K275VAC-C-D2"; UniqueID = "\OUXRBOTV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/2201131300_NDF-X2-104K-275VAC_C914484.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C914484"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "NDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfr. Part #"; Value = "X2-104K-275VAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Plugin,P=15mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Room: Name=AQM with esp32
+Added Room: Name=esp32-c3 module

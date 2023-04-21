@@ -1,0 +1,54 @@
+Removed Pin From Net: NetName=SET Pin=B4-10
+Removed Pin From Net: NetName=SET Pin=P9-4
+Removed Pin From Net: NetName=SET Pin=P12-9
+Removed Pin From Net: NetName=VDD3.3V Pin=R9-2
+Removed Member From Class: ClassName=esp32-c3 module Member=R9
+Added Component: Designator=R16(FP-RC0402-0_4-IPC_A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0402FR-070RL_C106231.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C106231"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part #"; Value = "RC0402FR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R17(FP-RC0402-0_4-IPC_A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0402FR-070RL_C106231.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C106231"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part #"; Value = "RC0402FR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=S4(TL1105AF160Q)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1809291031_E-Switch-TL1105AF160Q_C273465.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C273465"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "E-Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part #"; Value = "TL1105AF160Q"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Plugin,6x6mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SET Pin=B4-7
+Added Pin To Net: NetName=SET Pin=P11-3
+Added Pin To Net: NetName=VDD3.3V Pin=R9-1
+Added Pin To Net: NetName=SET Pin=R16-1
+Added Pin To Net: NetName=GND Pin=S4-3
+Added Pin To Net: NetName=GND Pin=S4-4
+Added Pin To Net: NetName=IO10 Pin=B4-10
+Added Pin To Net: NetName=IO10 Pin=P12-9
+Added Net: Name=IO10
+Added Pin To Net: NetName=NetP9_1 Pin=P9-1
+Added Pin To Net: NetName=NetP9_1 Pin=R17-2
+Added Net: Name=NetP9_1
+Added Pin To Net: NetName=NetP9_4 Pin=P9-4
+Added Pin To Net: NetName=NetP9_4 Pin=R16-2
+Added Net: Name=NetP9_4
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR9_2 Pin=R17-1
+Added Pin To Net: NetName=NetR9_2 Pin=S4-1
+Added Pin To Net: NetName=NetR9_2 Pin=S4-2
+Added Net: Name=NetR9_2
+Added Member To Class: ClassName=AQM with esp32 Member=Component R9 10kO
+Added Member To Class: ClassName=AQM with esp32 Member=Component R16 0R
+Added Member To Class: ClassName=AQM with esp32 Member=Component R17 0R
+Added Member To Class: ClassName=AQM with esp32 Member=Component S4 TL1105AF160Q
+Added Room: Name=AQM with esp32
+Added Room: Name=esp32-c3 module
