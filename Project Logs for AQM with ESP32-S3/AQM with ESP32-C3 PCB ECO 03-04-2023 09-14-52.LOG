@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=P8-2
-Removed Pin From Net: NetName=DOUT2 Pin=P8-3
-Removed Pin From Net: NetName=IO2 Pin=P8-4
-Added Pin To Net: NetName=DOUT2 Pin=P8-2
-Added Pin To Net: NetName=IO2 Pin=P8-3
-Added Pin To Net: NetName=GND Pin=P8-4
-Added Room: Name=AQM with esp32
-Added Room: Name=esp32-c3 module
